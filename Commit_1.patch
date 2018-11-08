@@ -1,0 +1,14 @@
+Index: src/sample/Class1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/sample/Class1.java	(revision Shelved Version)
++++ src/sample/Class1.java	(revision Shelved Version)
+@@ -0,0 +1,6 @@
++package sample;
++
++public class Class1 {
++
++
++}
